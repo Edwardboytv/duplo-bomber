@@ -5,6 +5,7 @@ Private SMS-Bomber
 - pkg install python
 - apt install git
 - git clone https://github.com/batiscuff/duplo-bomber
+- cd duplo-bomber
 - pip3 install -r requirements.txt
 # Start
 python3 duplo_spam.py
