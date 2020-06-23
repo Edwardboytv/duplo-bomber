@@ -1,4 +1,4 @@
-# duplo-bomber
+# Duplo Bomber
 Private SMS-Bomber
 # Install
 - apt update && apt upgrade
