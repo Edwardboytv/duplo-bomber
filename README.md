@@ -2,12 +2,9 @@
 Private SMS-Bomber
 # Install
 - apt update && apt upgrade
-- apt install python3-pip
+- pkg install python
 - apt install git
 - git clone https://github.com/batiscuff/duplo-bomber
-- pip3 install requests
-- pip3 install bs4
-- pip3 install colorama
-- pip3 install argparse
+- pip3 install -r requirements.txt
 # Start
-python3 spymer.py
+python3 duplo_spam.py
